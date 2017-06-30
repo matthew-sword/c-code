@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+948892859 source:c:\documents and settings\administrator\×ÀÃæ\rand game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

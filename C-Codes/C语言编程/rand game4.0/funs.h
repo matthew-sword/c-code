@@ -1,0 +1,4 @@
+#ifndef FUNS_H_INCLUDED
+#define FUNS_H_INCLUDED
+
+#endif // FUNS_H_INCLUDED

@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1446687883 source:c:\users\hzdn\desktop\rand game3.0\main.c
+	<stdio.h>
+	"funs.h"
+	<time.h>
+
+1446469057 c:\users\hzdn\desktop\rand game3.0\funs.h
+
+1446688025 source:c:\users\hzdn\desktop\rand game3.0\funs.c
+	"funs.h"
+	<stdio.h>
+	<time.h>
+
+1446688501 source:c:\users\hzdn\desktop\编程作业\rand game3.0\funs.c
+	"funs.h"
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1446469057 c:\users\hzdn\desktop\编程作业\rand game3.0\funs.h
+
+1446687883 source:c:\users\hzdn\desktop\编程作业\rand game3.0\main.c
+	<stdio.h>
+	"funs.h"
+	<time.h>
+

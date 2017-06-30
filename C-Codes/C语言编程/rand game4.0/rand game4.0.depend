@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1447060528 source:c:\users\hzdn\desktop\rand game4.0\funs.c
+
+1447073780 source:c:\users\hzdn\desktop\rand game4.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1447060528 source:c:\users\hzdn\desktop\编程作业\rand game4.0\funs.c
+
+1447290700 source:c:\users\hzdn\desktop\编程作业\rand game4.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

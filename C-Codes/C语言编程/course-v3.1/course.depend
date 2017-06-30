@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1365386461 source:e:\codecpp\2013\e11\course-v2\date.c
+	<stdio.h>
+	"date.h"
+
+1365381356 e:\codecpp\2013\e11\course-v2\date.h
+
+1367569993 source:e:\codecpp\2013\e11\course-v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"course.h"
+	"date.h"
+
+1367569592 e:\codecpp\2013\e11\course-v2\course.h
+
+1367569849 source:e:\codecpp\2013\e11\course-v2\course.c
+	<stdio.h>
+	<string.h>
+	"course.h"
+	"date.h"
+
+1365386461 source:e:\codecpp\2013e\e11\course-v2\date.c
+	<stdio.h>
+	"date.h"
+
+1365381356 e:\codecpp\2013e\e11\course-v2\date.h
+
+1370224012 source:e:\codecpp\2013e\e11\course-v2\course.c
+	<stdio.h>
+	<string.h>
+	"course.h"
+	"date.h"
+
+1370223999 e:\codecpp\2013e\e11\course-v2\course.h
+
+1370224424 source:e:\codecpp\2013e\e11\course-v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"course.h"
+	"date.h"
+
+1365386461 source:e:\codecpp\2013e\e12\course-v3.1\date.c
+	<stdio.h>
+	"date.h"
+
+1365381356 e:\codecpp\2013e\e12\course-v3.1\date.h
+
+1370839488 source:e:\codecpp\2013e\e12\course-v3.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"course.h"
+	"date.h"
+
+1370838706 e:\codecpp\2013e\e12\course-v3.1\course.h
+
+1370848459 source:e:\codecpp\2013e\e12\course-v3.1\course.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"course.h"
+	"date.h"
+
+1370848460 source:i:\course-v3.1\course.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"course.h"
+	"date.h"
+
+1370838708 i:\course-v3.1\course.h
+
+1365381358 i:\course-v3.1\date.h
+
+1365386462 source:i:\course-v3.1\date.c
+	<stdio.h>
+	"date.h"
+
+1370839490 source:i:\course-v3.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"course.h"
+	"date.h"
+
+1370848460 source:c:\users\hzdn\desktop\编程作业\course-v3.1\course.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"course.h"
+	"date.h"
+
+1370838708 c:\users\hzdn\desktop\编程作业\course-v3.1\course.h
+
+1365381358 c:\users\hzdn\desktop\编程作业\course-v3.1\date.h
+
+1365386462 source:c:\users\hzdn\desktop\编程作业\course-v3.1\date.c
+	<stdio.h>
+	"date.h"
+
+1370839490 source:c:\users\hzdn\desktop\编程作业\course-v3.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"course.h"
+	"date.h"
+
+1370848460 source:c:\users\hzdn\desktop\c语言编程\course-v3.1\course.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"course.h"
+	"date.h"
+
+1370838708 c:\users\hzdn\desktop\c语言编程\course-v3.1\course.h
+
+1365381358 c:\users\hzdn\desktop\c语言编程\course-v3.1\date.h
+
+1365386462 source:c:\users\hzdn\desktop\c语言编程\course-v3.1\date.c
+	<stdio.h>
+	"date.h"
+
+1370839490 source:c:\users\hzdn\desktop\c语言编程\course-v3.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"course.h"
+	"date.h"
+

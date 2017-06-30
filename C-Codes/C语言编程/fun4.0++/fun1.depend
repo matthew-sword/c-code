@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+948512351 source:c:\documents and settings\administrator\桌面\fun1\date.c
+	"date.h"
+
+948508140 c:\documents and settings\administrator\桌面\fun1\date.h
+
+948509725 source:c:\documents and settings\administrator\桌面\fun1\fun.c
+	<stdio.h>
+	"fun.h"
+	"date.h"
+
+948508051 c:\documents and settings\administrator\桌面\fun1\fun.h
+
+948509391 source:c:\documents and settings\administrator\桌面\fun1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fun.h"
+	"date.h"
+
+949109321 source:c:\documents and settings\administrator\桌面\fun4.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fun.h"
+	"date.h"
+
+949108168 c:\documents and settings\administrator\桌面\fun4.0\fun.h
+
+949109321 c:\documents and settings\administrator\桌面\fun4.0\date.h
+
+949113091 source:c:\documents and settings\administrator\桌面\fun4.0\date.c
+	"date.h"
+
+949118096 source:c:\documents and settings\administrator\桌面\fun4.0\fun.c
+	<stdio.h>
+	"fun.h"
+	"date.h"
+
+949118376 source:c:\users\hzdn\desktop\fun4.0++\date.c
+	"date.h"
+
+949109322 c:\users\hzdn\desktop\fun4.0++\date.h
+
+949118098 source:c:\users\hzdn\desktop\fun4.0++\fun.c
+	<stdio.h>
+	"fun.h"
+	"date.h"
+
+949108170 c:\users\hzdn\desktop\fun4.0++\fun.h
+
+949118376 source:c:\users\hzdn\desktop\编程作业\fun4.0++\date.c
+	"date.h"
+
+949109322 c:\users\hzdn\desktop\编程作业\fun4.0++\date.h
+
+1446539413 source:c:\users\hzdn\desktop\编程作业\fun4.0++\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fun.h"
+	"date.h"
+
+1446539023 c:\users\hzdn\desktop\编程作业\fun4.0++\fun.h
+
+1446539023 source:c:\users\hzdn\desktop\编程作业\fun4.0++\fun.c
+	<stdio.h>
+	"fun.h"
+	"date.h"
+

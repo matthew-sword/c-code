@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1448958913 source:c:\users\hzdn\desktop\course 2.0\linkedlist.c
+	"linkedlist.h"
+
+1448958395 c:\users\hzdn\desktop\course 2.0\linkedlist.h
+	<stdio.h>
+	<stdlib.h>
+
+1448886488 source:c:\users\hzdn\desktop\course 2.0\file.c
+	"file.h"
+
+1448880409 c:\users\hzdn\desktop\course 2.0\file.h
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist.h"
+
+1448958395 source:c:\users\hzdn\desktop\course 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist.h"
+	"file.h"
+
+1449477327 source:c:\users\hzdn\desktop\编程作业\course 2.0\linkedlist.c
+	"linkedlist.h"
+
+1449478544 c:\users\hzdn\desktop\编程作业\course 2.0\linkedlist.h
+	<stdio.h>
+	<stdlib.h>
+	"file.h"
+	"InputCheck.h"
+
+1449477703 source:c:\users\hzdn\desktop\编程作业\course 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist.h"
+	"file.h"
+
+1449477433 c:\users\hzdn\desktop\编程作业\course 2.0\file.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1449474661 source:c:\users\hzdn\desktop\编程作业\course 2.0\file.c
+	"file.h"
+
+1449478544 c:\users\hzdn\desktop\编程作业\course 2.0\inputcheck.h
+	"file.h"
+
+1450184800 source:c:\users\hzdn\desktop\c语言编程\course 2.0\linkedlist.c
+	"linkedlist.h"
+
+1450871534 c:\users\hzdn\desktop\c语言编程\course 2.0\linkedlist.h
+	<stdio.h>
+	<stdlib.h>
+	"file.h"
+	"InputCheck.h"
+
+1450870545 c:\users\hzdn\desktop\c语言编程\course 2.0\file.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1450875978 c:\users\hzdn\desktop\c语言编程\course 2.0\inputcheck.h
+	"file.h"
+
+1450875672 source:c:\users\hzdn\desktop\c语言编程\course 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist.h"
+	"file.h"
+
+1450870545 source:c:\users\hzdn\desktop\c语言编程\course 2.0\inputcheck.c
+	"InputCheck.h"
+
+1450875615 source:c:\users\hzdn\desktop\c语言编程\course 2.0\file.c
+	"file.h"
+

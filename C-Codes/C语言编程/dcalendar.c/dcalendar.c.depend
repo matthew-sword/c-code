@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1444988584 source:c:\users\hzdn\desktop\dcalendar.c\main.c
+	<stdio.h>
+	<stdlib.h>
+

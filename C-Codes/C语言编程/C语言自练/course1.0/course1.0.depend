@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1447898120 source:c:\users\hzdn\desktop\course1.0\course.c
+	"course.h"
+	"data.h"
+	<stdio.h>
+
+1447893173 c:\users\hzdn\desktop\course1.0\course.h
+	<stdio.h>
+
+949109322 c:\users\hzdn\desktop\course1.0\date.h
+
+1448277333 source:c:\users\hzdn\desktop\course1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"course.h"
+
+1447858015 c:\users\hzdn\desktop\course1.0\data.h
+
+1447858067 source:c:\users\hzdn\desktop\course1.0\data.c
+	"data.h"
+

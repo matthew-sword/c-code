@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1448362828 source:c:\users\hzdn\desktop\simpletron\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funs.h"
+
+1448367001 source:c:\users\hzdn\desktop\simpletron\funs.c
+	<stdio.h>
+	<stdlib.h>
+	"funs.h"
+
+1448365873 c:\users\hzdn\desktop\simpletron\funs.h
+
